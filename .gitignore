@@ -6541,3 +6541,4 @@ Django/venv/Scripts/pythonw_d.exe
 Django/venv/Scripts/pythonw.exe
 Django/venv/Scripts/sqlformat.exe
 *.csv
+venv/
